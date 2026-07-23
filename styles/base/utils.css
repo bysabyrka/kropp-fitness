@@ -73,6 +73,10 @@
   }
 }
 
+.font-bold {
+  font-weight: bold;
+}
+
 @media (max-width: 767px) {
   .section-description {
     font-size: 16px;
